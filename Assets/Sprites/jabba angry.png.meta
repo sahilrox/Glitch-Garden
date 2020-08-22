@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: a3fd30e09df14cb4b886889d0942ebcd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7225185185348700709
+    second: jabba angry_0
+  - first:
+      213: 3768631461210407164
+    second: jabba angry_1
+  - first:
+      213: 7508903715034289374
+    second: jabba angry_2
+  - first:
+      213: 5662300476178999770
+    second: jabba angry_3
+  - first:
+      213: 1438261514550366561
+    second: jabba angry_4
+  - first:
+      213: -6767505020371513508
+    second: jabba angry_5
+  - first:
+      213: -6466637160629600586
+    second: jabba angry_6
+  - first:
+      213: -3582636701827182774
+    second: jabba angry_7
+  - first:
+      213: -2691104296214004468
+    second: jabba angry_8
+  - first:
+      213: 7106656878414973136
+    second: jabba angry_9
+  - first:
+      213: 2113443742446902120
+    second: jabba angry_10
+  - first:
+      213: -2036277439489965519
+    second: jabba angry_11
+  - first:
+      213: 1351058100385790295
+    second: jabba angry_12
+  - first:
+      213: -5108492711022616100
+    second: jabba angry_13
+  - first:
+      213: 2205868649605697212
+    second: jabba angry_14
+  - first:
+      213: -3730088880050991080
+    second: jabba angry_15
+  - first:
+      213: 2153056989871564569
+    second: jabba angry_16
+  - first:
+      213: 3760881337738769647
+    second: jabba angry_17
+  - first:
+      213: 6767068519064698867
+    second: jabba angry_18
+  - first:
+      213: -5082345480450837442
+    second: jabba angry_19
+  - first:
+      213: 4617223213923445104
+    second: jabba angry_20
+  - first:
+      213: -2984027087198727329
+    second: jabba angry_21
+  - first:
+      213: -5906019253730390053
+    second: jabba angry_22
+  - first:
+      213: 8779480533174982788
+    second: jabba angry_23
+  - first:
+      213: 6510933577278020587
+    second: jabba angry_24
+  - first:
+      213: -6611036741534790682
+    second: jabba angry_25
+  - first:
+      213: 4049903618738986052
+    second: jabba angry_26
+  - first:
+      213: -2763964238727566436
+    second: jabba angry_27
+  - first:
+      213: 2949298488544330298
+    second: jabba angry_28
+  - first:
+      213: -4264668888485455802
+    second: jabba angry_29
+  - first:
+      213: -3777053278471766891
+    second: jabba angry_30
+  - first:
+      213: -1290509632894514132
+    second: jabba angry_31
+  - first:
+      213: 4346383797229921658
+    second: jabba angry_32
+  - first:
+      213: 3641286410468710293
+    second: jabba angry_33
+  - first:
+      213: -4950659271735128257
+    second: jabba angry_34
+  - first:
+      213: -6363861021561224001
+    second: jabba angry_35
+  - first:
+      213: -7559515654354645756
+    second: jabba angry_36
+  - first:
+      213: -4281581744096214540
+    second: jabba angry_37
+  - first:
+      213: -8152224754570450895
+    second: jabba angry_38
+  - first:
+      213: 1478380306021678702
+    second: jabba angry_39
+  - first:
+      213: -1663412524147351340
+    second: jabba angry_40
+  - first:
+      213: 1622046190917272970
+    second: jabba angry_41
+  - first:
+      213: -3563539970876295436
+    second: jabba angry_42
+  - first:
+      213: 290510761412593059
+    second: jabba angry_43
+  - first:
+      213: -2347582582409323361
+    second: jabba angry_44
+  - first:
+      213: 7445371903541248717
+    second: jabba angry_45
+  - first:
+      213: 7363770104699702341
+    second: jabba angry_46
+  - first:
+      213: 2301615657932531535
+    second: jabba angry_47
+  - first:
+      213: 7066164576206423808
+    second: jabba angry_48
+  - first:
+      213: 9179477437905775535
+    second: jabba angry_49
+  - first:
+      213: 7601406195270894541
+    second: jabba angry_50
+  - first:
+      213: 8472126668720676222
+    second: jabba angry_51
+  - first:
+      213: 4807274436944455343
+    second: jabba angry_52
+  - first:
+      213: -5085344973758414316
+    second: jabba angry_53
+  - first:
+      213: 7299468494506603292
+    second: jabba angry_54
+  - first:
+      213: -5326825750839005701
+    second: jabba angry_55
+  - first:
+      213: 2856886269368310358
+    second: jabba angry_56
+  - first:
+      213: 6194668646322457866
+    second: jabba angry_57
+  - first:
+      213: -2614711958980363064
+    second: jabba angry_58
+  - first:
+      213: -2181394064059809375
+    second: jabba angry_59
+  - first:
+      213: 2381243574752679498
+    second: jabba angry_60
+  - first:
+      213: -1812536972493759976
+    second: jabba angry_61
+  - first:
+      213: -5223155463950855695
+    second: jabba angry_62
+  - first:
+      213: -3453420103708889091
+    second: jabba angry_63
+  - first:
+      213: -9202915430043397137
+    second: jabba angry_64
+  - first:
+      213: -5626548357316877562
+    second: jabba angry_65
+  - first:
+      213: -2557083016251698733
+    second: jabba angry_66
+  - first:
+      213: -6921687120693605670
+    second: jabba angry_67
+  - first:
+      213: 6233829894110798235
+    second: jabba angry_68
+  - first:
+      213: 4681765756657788872
+    second: jabba angry_69
+  - first:
+      213: -7743931673869845313
+    second: jabba angry_70
+  - first:
+      213: 3737041657065046017
+    second: jabba angry_71
+  - first:
+      213: -5651274289696485225
+    second: jabba angry_72
+  - first:
+      213: 4102249266588136070
+    second: jabba angry_73
+  - first:
+      213: 4850292441846155413
+    second: jabba angry_74
+  - first:
+      213: -4018159829970471264
+    second: jabba angry_75
+  - first:
+      213: -7797636697286327846
+    second: jabba angry_76
+  - first:
+      213: -5175529399275962936
+    second: jabba angry_77
+  - first:
+      213: -7125091692295179115
+    second: jabba angry_78
+  - first:
+      213: -2145338361462929195
+    second: jabba angry_79
+  - first:
+      213: 2833073817918537288
+    second: jabba angry_80
+  - first:
+      213: -9089924392713601014
+    second: jabba angry_81
+  - first:
+      213: -4361581727807927028
+    second: jabba angry_82
+  - first:
+      213: -669985580752103502
+    second: jabba angry_83
+  - first:
+      213: -94069414598601109
+    second: jabba angry_84
+  - first:
+      213: -438209618838312921
+    second: jabba angry_85
+  - first:
+      213: 8056401391699927328
+    second: jabba angry_86
+  - first:
+      213: 8653494471075297543
+    second: jabba angry_87
+  - first:
+      213: 5236191452290092816
+    second: jabba angry_88
+  - first:
+      213: 7710493697414534886
+    second: jabba angry_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jabba angry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd530e6ca5cfabb90800000000000000
+      internalID: -7225185185348700709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0cecec85edc4430800000000000000
+      internalID: 3768631461210407164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4da3b152cf43860800000000000000
+      internalID: 7508903715034289374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_3
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9ac2e6848849e40800000000000000
+      internalID: 5662300476178999770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_4
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161d3ec2a3bb5f310800000000000000
+      internalID: 1438261514550366561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_5
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f451d2a0ef412a0800000000000000
+      internalID: -6767505020371513508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_6
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef45d93c3e146a0800000000000000
+      internalID: -6466637160629600586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_7
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f405cb6eae74ec0800000000000000
+      internalID: -3582636701827182774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_8
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0df2a296e647aad0800000000000000
+      internalID: -2691104296214004468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8c28a37caef9260800000000000000
+      internalID: 7106656878414973136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd151e2e5745d10800000000000000
+      internalID: 2113443742446902120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_11
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1320f0b1570bdb3e0800000000000000
+      internalID: -2036277439489965519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_12
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759b8602f2cefb210800000000000000
+      internalID: 1351058100385790295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_13
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd123ddf1fcfa19b0800000000000000
+      internalID: -5108492711022616100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_14
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe0be089d1dc9e10800000000000000
+      internalID: 2205868649605697212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_15
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8101deb2def0c3cc0800000000000000
+      internalID: -3730088880050991080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_16
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9176776cce131ed10800000000000000
+      internalID: 2153056989871564569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_17
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4b05296a5513430800000000000000
+      internalID: 3760881337738769647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff7491f6f479ed50800000000000000
+      internalID: 6767068519064698867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e347ae386b1e779b0800000000000000
+      internalID: -5082345480450837442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_20
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079289acc0ca31040800000000000000
+      internalID: 4617223213923445104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_21
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53506b9c2b9696d0800000000000000
+      internalID: -2984027087198727329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_22
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf48c8b7ca990ea0800000000000000
+      internalID: -5906019253730390053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_23
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4881a5c770bf6d970800000000000000
+      internalID: 8779480533174982788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_24
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebd1d5979b7b5a50800000000000000
+      internalID: 6510933577278020587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_25
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb43cf3c11e044a0800000000000000
+      internalID: -6611036741534790682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_26
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c918942e5243830800000000000000
+      internalID: 4049903618738986052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba2c24b2d64a9d0800000000000000
+      internalID: -2763964238727566436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_28
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32084a69530ee820800000000000000
+      internalID: 2949298488544330298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_29
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6481a29bd3ad0d4c0800000000000000
+      internalID: -4264668888485455802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_30
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c37fe0e06359bc0800000000000000
+      internalID: -3777053278471766891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_31
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c4a188350371ee0800000000000000
+      internalID: -1290509632894514132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_32
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7527631905715c30800000000000000
+      internalID: 4346383797229921658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_33
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597d17da2b2788230800000000000000
+      internalID: 3641286410468710293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_34
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fcb304f99bb4bb0800000000000000
+      internalID: -4950659271735128257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_35
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb483e93e160fa7a0800000000000000
+      internalID: -6363861021561224001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dcf2c7094371790800000000000000
+      internalID: -7559515654354645756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_37
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1095aa614c494c0800000000000000
+      internalID: -4281581744096214540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_38
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138aeae27ca7dde80800000000000000
+      internalID: -8152224754570450895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_39
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6efa573e03448410800000000000000
+      internalID: 1478380306021678702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_40
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0e2475f1f5ae8e0800000000000000
+      internalID: -1663412524147351340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_41
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8546eaaa6aa28610800000000000000
+      internalID: 1622046190917272970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_42
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f63305e643cb8ec0800000000000000
+      internalID: -3563539970876295436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_43
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a50d619ff9180400800000000000000
+      internalID: 290510761412593059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_44
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c199e4416bb6fd0800000000000000
+      internalID: -2347582582409323361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2004b8c46435760800000000000000
+      internalID: 7445371903541248717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_46
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c444235ed513660800000000000000
+      internalID: 7363770104699702341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_47
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47ab841f3bf0ff10800000000000000
+      internalID: 2301615657932531535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_48
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0078b317e3f001260800000000000000
+      internalID: 7066164576206423808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_49
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2616481e046f70800000000000000
+      internalID: 9179477437905775535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_50
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3439e19ae9d7960800000000000000
+      internalID: 7601406195270894541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_51
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d9535615a039570800000000000000
+      internalID: 8472126668720676222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_52
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6e3ef51aed6b240800000000000000
+      internalID: 4807274436944455343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_53
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412cfce80b93d69b0800000000000000
+      internalID: -5085344973758414316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13b838ebebec4560800000000000000
+      internalID: 7299468494506603292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_55
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd66dcc3305316b0800000000000000
+      internalID: -5326825750839005701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_56
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a9361fce2b5a720800000000000000
+      internalID: 2856886269368310358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_57
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dcc452052e7f550800000000000000
+      internalID: 6194668646322457866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_58
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc720f935da6bbd0800000000000000
+      internalID: -2614711958980363064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_59
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1c19008a12ab1e0800000000000000
+      internalID: -2181394064059809375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_60
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4690d43a60eb0120800000000000000
+      internalID: 2381243574752679498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_61
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5f3c0a3398d6e0800000000000000
+      internalID: -1812536972493759976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_62
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1919c67cf9387b0800000000000000
+      internalID: -5223155463950855695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff2d3276bcf210d0800000000000000
+      internalID: -3453420103708889091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_64
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe35d4eec2da84080800000000000000
+      internalID: -9202915430043397137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_65
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e19a641c7ae1b0800000000000000
+      internalID: -5626548357316877562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_66
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d112237b8a638cd0800000000000000
+      internalID: -2557083016251698733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_67
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada49a48c3a31ff90800000000000000
+      internalID: -6921687120693605670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_68
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b916faca243038650800000000000000
+      internalID: 6233829894110798235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_69
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ec2f8629f8f040800000000000000
+      internalID: 4681765756657788872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_70
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc7716fb27088490800000000000000
+      internalID: -7743931673869845313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_71
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10003306693acd330800000000000000
+      internalID: 3737041657065046017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790d75aa9f3a291b0800000000000000
+      internalID: -5651274289696485225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_73
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682b71b29fd1ee830800000000000000
+      internalID: 4102249266588136070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_74
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59880052743bf4340800000000000000
+      internalID: 4850292441846155413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_75
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6bddb7ce0ac38c0800000000000000
+      internalID: -4018159829970471264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_76
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1c2baccba39c390800000000000000
+      internalID: -7797636697286327846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_77
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdb097be63dc28b0800000000000000
+      internalID: -5175529399275962936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_78
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594b8a03bd69e1d90800000000000000
+      internalID: -7125091692295179115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_79
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8cbf1702a3a32e0800000000000000
+      internalID: -2145338361462929195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_80
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e7e7b80a9115720800000000000000
+      internalID: 2833073817918537288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00c521ece91ad180800000000000000
+      internalID: -9089924392713601014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_82
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d8c27f68c8873c0800000000000000
+      internalID: -4361581727807927028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_83
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b713aef9abb3b6f0800000000000000
+      internalID: -669985580752103502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_84
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b661f96ad5cc1bef0800000000000000
+      internalID: -94069414598601109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_85
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728abf36caa2be9f0800000000000000
+      internalID: -438209618838312921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_86
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ac3091661ecf60800000000000000
+      internalID: 8056401391699927328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_87
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709ff3e8f53671870800000000000000
+      internalID: 8653494471075297543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_88
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f00b12260baa840800000000000000
+      internalID: 5236191452290092816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jabba angry_89
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e618457a2d210b60800000000000000
+      internalID: 7710493697414534886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

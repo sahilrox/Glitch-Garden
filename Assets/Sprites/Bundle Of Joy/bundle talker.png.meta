@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: 0ffdec95f83d77d4188a9cdfed68b48e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2181108105084275972
+    second: bundle talker_0
+  - first:
+      213: 7729586194803470212
+    second: bundle talker_1
+  - first:
+      213: -7648837996495411039
+    second: bundle talker_2
+  - first:
+      213: -4121597986443059764
+    second: bundle talker_3
+  - first:
+      213: 5438247629077155812
+    second: bundle talker_4
+  - first:
+      213: 6562603749288603519
+    second: bundle talker_5
+  - first:
+      213: 7896792185064716325
+    second: bundle talker_6
+  - first:
+      213: 2934578566958672247
+    second: bundle talker_7
+  - first:
+      213: 6448152603533252199
+    second: bundle talker_8
+  - first:
+      213: -1349545771516657956
+    second: bundle talker_9
+  - first:
+      213: -659888269214312527
+    second: bundle talker_10
+  - first:
+      213: -4687689594777457545
+    second: bundle talker_11
+  - first:
+      213: -5650258842162464069
+    second: bundle talker_12
+  - first:
+      213: -4385297425435233252
+    second: bundle talker_13
+  - first:
+      213: 4604311571371432201
+    second: bundle talker_14
+  - first:
+      213: 190670031105621343
+    second: bundle talker_15
+  - first:
+      213: 8907495264565748027
+    second: bundle talker_16
+  - first:
+      213: 9135676568421065744
+    second: bundle talker_17
+  - first:
+      213: 5900952484478447683
+    second: bundle talker_18
+  - first:
+      213: 1671879527143590369
+    second: bundle talker_19
+  - first:
+      213: -7156217697814716013
+    second: bundle talker_20
+  - first:
+      213: 3876076913073137146
+    second: bundle talker_21
+  - first:
+      213: -9206902109032814003
+    second: bundle talker_22
+  - first:
+      213: -2713087786038948610
+    second: bundle talker_23
+  - first:
+      213: -6867665917320809232
+    second: bundle talker_24
+  - first:
+      213: -5047618308751290728
+    second: bundle talker_25
+  - first:
+      213: 4462656240175163836
+    second: bundle talker_26
+  - first:
+      213: -3952460935240608187
+    second: bundle talker_27
+  - first:
+      213: 2723067677388832648
+    second: bundle talker_28
+  - first:
+      213: 1106498664521261566
+    second: bundle talker_29
+  - first:
+      213: -4369926118808645284
+    second: bundle talker_30
+  - first:
+      213: -2014240009696804483
+    second: bundle talker_31
+  - first:
+      213: 7133769491422270936
+    second: bundle talker_32
+  - first:
+      213: -2450475515559494539
+    second: bundle talker_33
+  - first:
+      213: 2028504312429226361
+    second: bundle talker_34
+  - first:
+      213: 1727878106508650707
+    second: bundle talker_35
+  - first:
+      213: -7022060932073771839
+    second: bundle talker_36
+  - first:
+      213: 8558247196327269919
+    second: bundle talker_37
+  - first:
+      213: -2940600424634898055
+    second: bundle talker_38
+  - first:
+      213: 8189039603248898152
+    second: bundle talker_39
+  - first:
+      213: 7575243820596779448
+    second: bundle talker_40
+  - first:
+      213: 7475348944785121367
+    second: bundle talker_41
+  - first:
+      213: 3955228731111262997
+    second: bundle talker_42
+  - first:
+      213: -4369533073055986599
+    second: bundle talker_43
+  - first:
+      213: 316353669294251758
+    second: bundle talker_44
+  - first:
+      213: 7013888480146123205
+    second: bundle talker_45
+  - first:
+      213: 7374768578265368733
+    second: bundle talker_46
+  - first:
+      213: 6157851418554177899
+    second: bundle talker_47
+  - first:
+      213: 3018317372777407797
+    second: bundle talker_48
+  - first:
+      213: -6612015831676653402
+    second: bundle talker_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bundle talker_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d064cf34ad44e10800000000000000
+      internalID: 2181108105084275972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 295
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f260ae0b1054b60800000000000000
+      internalID: 7729586194803470212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 295
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a861621e5ed9d590800000000000000
+      internalID: -7648837996495411039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 295
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd981fe7742dc6c0800000000000000
+      internalID: -4121597986443059764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 295
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef01c3d769887b40800000000000000
+      internalID: 5438247629077155812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 295
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f6efdf65d031b50800000000000000
+      internalID: 6562603749288603519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 295
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528fcdf37aa079d60800000000000000
+      internalID: 7896792185064716325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 295
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779eb0998a7b9b820800000000000000
+      internalID: 2934578566958672247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 295
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7661c1f01a07c7950800000000000000
+      internalID: 6448152603533252199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde7e906543754de0800000000000000
+      internalID: -1349545771516657956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 236
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7980a8d1b97d6f0800000000000000
+      internalID: -659888269214312527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 236
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77caef5662bf1feb0800000000000000
+      internalID: -4687689594777457545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 236
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba75e7f48f3691b0800000000000000
+      internalID: -5650258842162464069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 236
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c147f72d93b4423c0800000000000000
+      internalID: -4385297425435233252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 236
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90990debafcc5ef30800000000000000
+      internalID: 4604311571371432201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 236
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dfc51126565a200800000000000000
+      internalID: 190670031105621343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 236
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b316aeacfb7cd9b70800000000000000
+      internalID: 8907495264565748027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 236
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014e893af6178ce70800000000000000
+      internalID: 9135676568421065744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340fbc1250564e150800000000000000
+      internalID: 5900952484478447683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 177
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e944aa6295b33710800000000000000
+      internalID: 1671879527143590369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 177
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391e36a4be100bc90800000000000000
+      internalID: -7156217697814716013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 177
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af521d58a679ac530800000000000000
+      internalID: 3876076913073137146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 177
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aed45ef438a3080800000000000000
+      internalID: -9206902109032814003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 177
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc82bc780d295ad0800000000000000
+      internalID: -2713087786038948610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 177
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f439021c3621b0a0800000000000000
+      internalID: -6867665917320809232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 177
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e0f1144e143f9b0800000000000000
+      internalID: -5047618308751290728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_26
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 177
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9225ec43a8eed30800000000000000
+      internalID: 4462656240175163836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546106e68b90629c0800000000000000
+      internalID: -3952460935240608187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 118
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ffb1a00a74ac520800000000000000
+      internalID: 2723067677388832648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 118
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1eb334ca21b5f00800000000000000
+      internalID: 1106498664521261566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 118
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5195b90957ea53c0800000000000000
+      internalID: -4369926118808645284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 118
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7184a1126bfb04e0800000000000000
+      internalID: -2014240009696804483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 118
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d55ebd5e8d300360800000000000000
+      internalID: 7133769491422270936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 118
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cb84470892efdd0800000000000000
+      internalID: -2450475515559494539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_34
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 118
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97921b7bce1b62c10800000000000000
+      internalID: 2028504312429226361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_35
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 118
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d86f91bbf7aaf710800000000000000
+      internalID: 1727878106508650707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc289869c0ac8e90800000000000000
+      internalID: -7022060932073771839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 59
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16d1154b7005c670800000000000000
+      internalID: 8558247196327269919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 59
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97926476e73e037d0800000000000000
+      internalID: -2940600424634898055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 59
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860a14bb12055a170800000000000000
+      internalID: 8189039603248898152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 59
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9d4a59e1ca02960800000000000000
+      internalID: 7575243820596779448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_41
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 59
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750220a5246cdb760800000000000000
+      internalID: 7475348944785121367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 59
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b4e43439bc3e630800000000000000
+      internalID: 3955228731111262997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 59
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c4d2222dc4c53c0800000000000000
+      internalID: -4369533073055986599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_44
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 59
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeedca17cf9e36400800000000000000
+      internalID: 316353669294251758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c960595966565160800000000000000
+      internalID: 7013888480146123205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984830e2f0785660800000000000000
+      internalID: 7374768578265368733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b699e8e4d35157550800000000000000
+      internalID: 6157851418554177899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535a9c7a8a733e920800000000000000
+      internalID: 3018317372777407797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bundle talker_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a077af02a66d34a0800000000000000
+      internalID: -6612015831676653402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

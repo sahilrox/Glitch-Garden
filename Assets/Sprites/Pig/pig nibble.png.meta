@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: 11ed80a2010558d47a97c1223f5560ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5186809101278965539
+    second: pig nibble_0
+  - first:
+      213: -4696582563847869573
+    second: pig nibble_1
+  - first:
+      213: -2821165799281404162
+    second: pig nibble_2
+  - first:
+      213: 6039106069623397071
+    second: pig nibble_3
+  - first:
+      213: -7150207416080960802
+    second: pig nibble_4
+  - first:
+      213: 9152976039020317048
+    second: pig nibble_5
+  - first:
+      213: 7770039484940387969
+    second: pig nibble_6
+  - first:
+      213: -6440552243152793309
+    second: pig nibble_7
+  - first:
+      213: 8444073920633982311
+    second: pig nibble_8
+  - first:
+      213: -5810122788398434184
+    second: pig nibble_9
+  - first:
+      213: -1008537541151497899
+    second: pig nibble_10
+  - first:
+      213: -722779570705177124
+    second: pig nibble_11
+  - first:
+      213: -5237751050157138571
+    second: pig nibble_12
+  - first:
+      213: -3190452364904551337
+    second: pig nibble_13
+  - first:
+      213: 6709097132421179876
+    second: pig nibble_14
+  - first:
+      213: 7939358590959295838
+    second: pig nibble_15
+  - first:
+      213: 5362364604864193663
+    second: pig nibble_16
+  - first:
+      213: -8473577727209162902
+    second: pig nibble_17
+  - first:
+      213: 6128943612985019673
+    second: pig nibble_18
+  - first:
+      213: 1621459228847280328
+    second: pig nibble_19
+  - first:
+      213: 7698007726794039420
+    second: pig nibble_20
+  - first:
+      213: 4024065743395525716
+    second: pig nibble_21
+  - first:
+      213: 2310252447461449556
+    second: pig nibble_22
+  - first:
+      213: -3711036476679348281
+    second: pig nibble_23
+  - first:
+      213: -2497318651597145892
+    second: pig nibble_24
+  - first:
+      213: 6281412503665255323
+    second: pig nibble_25
+  - first:
+      213: -6638152762070557993
+    second: pig nibble_26
+  - first:
+      213: 8231607758128697242
+    second: pig nibble_27
+  - first:
+      213: 1862167866574230347
+    second: pig nibble_28
+  - first:
+      213: 2578283109853433971
+    second: pig nibble_29
+  - first:
+      213: 3788523433352041218
+    second: pig nibble_30
+  - first:
+      213: 4130349203473796325
+    second: pig nibble_31
+  - first:
+      213: 7075410512413389199
+    second: pig nibble_32
+  - first:
+      213: -426802555227381207
+    second: pig nibble_33
+  - first:
+      213: 7283382744991787662
+    second: pig nibble_34
+  - first:
+      213: -7416137248637288858
+    second: pig nibble_35
+  - first:
+      213: -6504508995109270146
+    second: pig nibble_36
+  - first:
+      213: 8953780990243200347
+    second: pig nibble_37
+  - first:
+      213: 2954660569718159363
+    second: pig nibble_38
+  - first:
+      213: 1448158641808963256
+    second: pig nibble_39
+  - first:
+      213: 806731301406412822
+    second: pig nibble_40
+  - first:
+      213: 6229989856292411700
+    second: pig nibble_41
+  - first:
+      213: 2442844859509762374
+    second: pig nibble_42
+  - first:
+      213: 3516533504724275697
+    second: pig nibble_43
+  - first:
+      213: 3688370353124877056
+    second: pig nibble_44
+  - first:
+      213: 4681421060648065007
+    second: pig nibble_45
+  - first:
+      213: 1715689685665235230
+    second: pig nibble_46
+  - first:
+      213: 4143485436545219438
+    second: pig nibble_47
+  - first:
+      213: -6472155147363922247
+    second: pig nibble_48
+  - first:
+      213: 5889952220648065361
+    second: pig nibble_49
+  - first:
+      213: -9068093253659113907
+    second: pig nibble_50
+  - first:
+      213: -414381567942985399
+    second: pig nibble_51
+  - first:
+      213: -4795556085318898652
+    second: pig nibble_52
+  - first:
+      213: 5575109629134510372
+    second: pig nibble_53
+  - first:
+      213: -9166387830677581006
+    second: pig nibble_54
+  - first:
+      213: 1437304411572065178
+    second: pig nibble_55
+  - first:
+      213: 1503458644045332452
+    second: pig nibble_56
+  - first:
+      213: -1788156509620591947
+    second: pig nibble_57
+  - first:
+      213: -8684614701744081950
+    second: pig nibble_58
+  - first:
+      213: -6774770291406476279
+    second: pig nibble_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pig nibble_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fee7f856f3bf740800000000000000
+      internalID: 5186809101278965539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bed8faa0362deb0800000000000000
+      internalID: -4696582563847869573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d95917a439d8d0800000000000000
+      internalID: -2821165799281404162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcadec849f63fc350800000000000000
+      internalID: 6039106069623397071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2712e0d3c55cc90800000000000000
+      internalID: -7150207416080960802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c7738637e50f70800000000000000
+      internalID: 9152976039020317048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18681ae7eb9b4db60800000000000000
+      internalID: 7770039484940387969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321588dbbdf8e96a0800000000000000
+      internalID: -6440552243152793309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d47800e706f2570800000000000000
+      internalID: 8444073920633982311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878fb187b1c4e5fa0800000000000000
+      internalID: -5810122788398434184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551e4052374f002f0800000000000000
+      internalID: -1008537541151497899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd565355fcb28f5f0800000000000000
+      internalID: -722779570705177124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d5471bb25cf47b0800000000000000
+      internalID: -5237751050157138571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c2f055a7c39b3d0800000000000000
+      internalID: -3190452364904551337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e96e8dab408b1d50800000000000000
+      internalID: 6709097132421179876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_15
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d139ee2944e2e60800000000000000
+      internalID: 7939358590959295838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ee057232fa6a40800000000000000
+      internalID: 5362364604864193663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_17
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a673909b3fdc76a80800000000000000
+      internalID: -8473577727209162902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_18
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d0f545eb16e0550800000000000000
+      internalID: 6128943612985019673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_19
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c09839e394908610800000000000000
+      internalID: 1621459228847280328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7065c1ed31d4da60800000000000000
+      internalID: 7698007726794039420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45498e3297a58d730800000000000000
+      internalID: 4024065743395525716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f9a685c5aaf0020800000000000000
+      internalID: 2310252447461449556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf92038cffbf7cc0800000000000000
+      internalID: -3711036476679348281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd83890faedb75dd0800000000000000
+      internalID: -2497318651597145892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_25
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b932aa8446f0c2750800000000000000
+      internalID: 6281412503665255323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da910cbb3b80e3a0800000000000000
+      internalID: -6638152762070557993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_27
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f4c91a4ab8c3270800000000000000
+      internalID: 8231607758128697242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43dd47fecfb7d910800000000000000
+      internalID: 1862167866574230347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_29
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370143df3d6e7c320800000000000000
+      internalID: 2578283109853433971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203113c7df9839430800000000000000
+      internalID: 3788523433352041218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec8f5f87b2f15930800000000000000
+      internalID: 4130349203473796325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81f678bf58e03260800000000000000
+      internalID: 7075410512413389199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922617a5651b31af0800000000000000
+      internalID: -426802555227381207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ae17e7406c31560800000000000000
+      internalID: 7283382744991787662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_35
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e7e69f676941990800000000000000
+      internalID: -7416137248637288858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dcd2408875bb5a0800000000000000
+      internalID: -6504508995109270146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_37
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d57181f58324c70800000000000000
+      internalID: 8953780990243200347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30877e93220110920800000000000000
+      internalID: 2954660569718159363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_39
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b67f6fac94e81410800000000000000
+      internalID: 1448158641808963256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610948928d5123b00800000000000000
+      internalID: 806731301406412822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439989234ce557650800000000000000
+      internalID: 6229989856292411700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e77cf47ab6e120800000000000000
+      internalID: 2442844859509762374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f199d5579c3dc030800000000000000
+      internalID: 3516533504724275697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003271a5b49bf2330800000000000000
+      internalID: 3688370353124877056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7d5f3c6afb7f040800000000000000
+      internalID: 4681421060648065007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_46
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11c0e2ddaa5fc710800000000000000
+      internalID: 1715689685665235230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_47
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b38492d0e908930800000000000000
+      internalID: 4143485436545219438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_48
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be48263f294e26a0800000000000000
+      internalID: -6472155147363922247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_49
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15940cf96505db150800000000000000
+      internalID: 5889952220648065361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4648890b39a72280800000000000000
+      internalID: -9068093253659113907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_51
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949f941d822df3af0800000000000000
+      internalID: -414381567942985399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42caa1af523c27db0800000000000000
+      internalID: -4795556085318898652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4291c646ba4ce5d40800000000000000
+      internalID: 5575109629134510372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233dff665d27ac080800000000000000
+      internalID: -9166387830677581006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_55
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93dad54fb452f310800000000000000
+      internalID: 1437304411572065178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_56
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efffcccbab5dd410800000000000000
+      internalID: 1503458644045332452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_57
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b22349e0213f27e0800000000000000
+      internalID: -1788156509620591947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_58
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3b86b11fc0a7780800000000000000
+      internalID: -8684614701744081950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pig nibble_59
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce8d1705e2bf1a0800000000000000
+      internalID: -6774770291406476279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
